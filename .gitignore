@@ -1,0 +1,43 @@
+# ===== 敏感配置（切勿提交）=====
+server/apis.json
+server/.env
+.env
+*.env.local
+
+# ===== 数据库与日志 =====
+server/bills/*.db
+server/interface/bills/*.db
+*.db
+server/logs/
+server/interface/logs/
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+venv/
+.venv/
+*.egg-info/
+
+# ===== Xcode =====
+xcuserdata/
+*.xcuserstate
+*.xcuserdatad/
+DerivedData/
+build/
+*.moved-aside
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.perspectivev3
+!default.perspectivev3
+
+# ===== 系统/编辑器 =====
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# ===== 其他 =====
+*.baiduyun.uploading.cfg
+uploads/
