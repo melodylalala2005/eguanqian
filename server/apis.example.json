@@ -1,0 +1,32 @@
+{
+  "VLLM": {
+    "type": "qwen-vl",
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "key_env": "在此填入你的 Qwen-VL API 密钥"
+  },
+  "QWEN_TURBO": {
+    "type": "qwen-text",
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "key_env": "在此填入你的 Qwen 文本模型密钥"
+  },
+  "LLM": {
+    "type": "qwen-vl",
+    "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",
+    "key_env": "在此填入你的通用 LLM（Qwen3-VL）密钥"
+  },
+  "BAIDU": {
+    "type": "baidu-ocr",
+    "auth": {
+      "api_key": "在此填入你的百度 API Key",
+      "secret_key": "在此填入你的百度 Secret Key",
+      "access_token": "",
+      "expires_at": 0,
+      "fetched_at": 0
+    },
+    "token": {
+      "access_token": "",
+      "expires_at": 0,
+      "fetched_at": 0
+    }
+  }
+}
