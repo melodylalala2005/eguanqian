@@ -40,7 +40,7 @@
 </tr>
 </table>
 
-更多界面与设计说明详见 [产品文档](./docs/市场与产品文档/README.md)。完整实机演示见 [**产品演示视频**](https://github.com/YangJingchi-WHUHKU/eguanqian/releases/tag/v1.0)（754 MB，在线播放）。
+更多界面与设计说明详见 [产品文档](./docs/市场与产品文档/README.md)。完整实机演示见 [**产品演示视频**](https://github.com/melodylalala2005/eguanqian/releases/tag/v1.0)（754 MB，在线播放）。
 
 ## 🏗 系统架构
 
@@ -128,12 +128,14 @@ AI 财务助手实测：首响 0.82 s（P90）、意图准度 88.4%、工具调�
 
 ## 🧠 团队
 
-| 成员 | 角色 | 背景 |
-| --- | --- | --- |
-| 王诗雨 | 负责人 / 产品经理 | 华中师范大学 应用心理学 |
-| 杨镜池 | 后端开发 | 武汉大学 国际法 |
-| 杨若非 | 前端设计 | 武汉大学 数字经济 |
-| 邓神珂 | 产品设计 | 华中农业大学 园艺 |
+| 成员 | 角色 |
+| --- | --- |
+| 王诗雨 | 负责人 / 产品经理 |
+| 杨镜池 | 后端开发 |
+| 曹元 | 开发 |
+| 邓祎珂 | 产品设计 |
+| 孟响 | 设计 |
+| 喻才恒 | 开发 |
 
 ## 📦 原始材料
 
@@ -143,7 +145,7 @@ AI 财务助手实测：首响 0.82 s（P90）、意图准度 88.4%、工具调�
 | --- | --- | --- |
 | 📕 产品说明文档 | [`docs/原始资料/鹅管钱-产品说明文档.pdf`](./docs/原始资料/鹅管钱-产品说明文档.pdf)（6.8 MB） | 21 页完整产品文档：市场分析、痛点、方案、技术选型与实验评估 |
 | 🎨 产品介绍 PPT | [`docs/原始资料/鹅管钱-产品介绍.pptx`](./docs/原始资料/鹅管钱-产品介绍.pptx)（19 MB） | 23 页比赛答辩 PPT，含全部界面设计稿 |
-| 🎬 产品演示视频 | [GitHub Release v1.0](https://github.com/YangJingchi-WHUHKU/eguanqian/releases/tag/v1.0)（754 MB） | App 实机操作演示。因超过 GitHub 单文件 100 MB 限制，通过 Release 附件发布 |
+| 🎬 产品演示视频 | [GitHub Release v1.0](https://github.com/melodylalala2005/eguanqian/releases/tag/v1.0)（754 MB） | App 实机操作演示。因超过 GitHub 单文件 100 MB 限制，通过 Release 附件发布 |
 
 > PPT 原始文件 812 MB（内嵌演示视频），已将视频剥离单独归档到 Release，PPT 本身保留全部 23 页内容。
 
